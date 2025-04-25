@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tIvHGNxZCDRF/fjRVFaAyFiiJNFJr5dp/c9iwwSYMc4=",
+  "Source": "WorkTimeTrackerServer",
+  "BasePath": "_content/WorkTimeTrackerServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

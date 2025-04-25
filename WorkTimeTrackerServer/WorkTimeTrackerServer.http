@@ -1,0 +1,6 @@
+@WorkTimeTrackerServer_HostAddress = http://localhost:5108
+
+GET {{WorkTimeTrackerServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
