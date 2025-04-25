@@ -1,0 +1,15 @@
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\bin\Debug\net9.0\WorkTimeTrackerConsole.exe
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\bin\Debug\net9.0\WorkTimeTrackerConsole.deps.json
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\bin\Debug\net9.0\WorkTimeTrackerConsole.runtimeconfig.json
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\bin\Debug\net9.0\WorkTimeTrackerConsole.dll
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\bin\Debug\net9.0\WorkTimeTrackerConsole.pdb
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\WorkTimeTrackerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\WorkTimeTrackerConsole.AssemblyInfoInputs.cache
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\WorkTimeTrackerConsole.AssemblyInfo.cs
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\WorkTimeTrackerConsole.csproj.CoreCompileInputs.cache
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\WorkTimeTrackerConsole.sourcelink.json
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\WorkTimeTrackerConsole.dll
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\refint\WorkTimeTrackerConsole.dll
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\WorkTimeTrackerConsole.pdb
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\WorkTimeTrackerConsole.genruntimeconfig.cache
+C:\faculta\Practica\GitRepo\WorkTimeTracker\WorkTimeTrackerConsole\obj\Debug\net9.0\ref\WorkTimeTrackerConsole.dll
