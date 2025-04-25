@@ -1,0 +1,131 @@
+{
+	"info": {
+		"_postman_id": "920b21b5-4dcf-4b8a-b1be-36fa2feb0a7c",
+		"name": "WorkTimeTrackerRequests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44422454",
+		"_collection_link": "https://mihai-2666456.postman.co/workspace/Mihai's-Workspace~1eb5140b-6b83-4944-875c-cc43754f12e7/collection/44422454-920b21b5-4dcf-4b8a-b1be-36fa2feb0a7c?action=share&source=collection_link&creator=44422454"
+	},
+	"item": [
+		{
+			"name": "StartSessionRequest",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\"user\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5108/api/WorkSession/start",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5108",
+					"path": [
+						"api",
+						"WorkSession",
+						"start"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PauseSessionRequest",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\"user\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5108/api/WorkSession/pause",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5108",
+					"path": [
+						"api",
+						"WorkSession",
+						"pause"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ResumeSessionRequest",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\"user\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5108/api/WorkSession/resume",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5108",
+					"path": [
+						"api",
+						"WorkSession",
+						"resume"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "StopSessionRequest",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\"user\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5108/api/WorkSession/stop",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5108",
+					"path": [
+						"api",
+						"WorkSession",
+						"stop"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
